@@ -1,1 +1,1 @@
-### A simple tool to read aloud any text written in Rust
+### A simple tool written in Rust to read aloud any text.
